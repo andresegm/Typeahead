@@ -1,0 +1,1 @@
+This is part of the JavaScript 30 Day Challenge by Wes Bos - see more at https://javascript30.com/
